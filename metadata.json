@@ -1,0 +1,7 @@
+{
+  "name": "App do Ovo",
+  "description": "Aplicativo de entrega de ovos com gestão de pedidos e assinaturas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
